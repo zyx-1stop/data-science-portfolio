@@ -20,7 +20,7 @@ Does highest education level significantly affect annual income in the United St
 
 **Visualization:**
 
-![Median Earnings by Education Level](earnings_by_education.png)
+![Age distribution by education level](https://raw.githubusercontent.com/zxy-1stop/data-science-project/main/age_distribution.png)
 
 **Brief Explanation of Findings:**
 The box plot shows a clear upward trend: graduates earn the highest median income (around $53,755), followed by bachelor's degree holders ($42,555), while certificate holders earn the least ($28,349). ANOVA confirms these differences are statistically significant (F = 598.13, p < 0.001).
